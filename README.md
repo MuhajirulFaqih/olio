@@ -1,8 +1,5 @@
 <h1 align="center">Olio - Html Portofolio Template</h1>
 
-
-> Template ini adalah salah satu hasil eksplorasi saya untuk tampilan website portofolio
-
 ### [Demo](https://muhajirulfaqih.github.io/olio)
 
 ### [Referensi UI](https://www.instagram.com/p/CINdNtABBNz)
